@@ -2,5 +2,6 @@ Rencana Sofar
 -Menjual template typography
 -Menjual template makalah
 -Menambah belajar bahasa inggris
--Belajar 
+-Belajar Python 
+-Belajar SQL
 -Membuka jasa edit
